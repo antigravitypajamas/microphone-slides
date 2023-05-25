@@ -7,7 +7,6 @@
 - [AEA R88 MK2 Owner's Manual](https://aearibbonmics.com/wp-content/uploads/2018/01/AEA-R88-Specifications-2-3-18.pdf)
 
 ### Images
+![](../images/AEA_R88_Product_Photo.png)
 
-![[AEA_R88_Product_Photo.png]]
-
-![[AEA-R88-Specifications-2-3-18.pdf]]
+![](../images/AEA-R88-Specifications-2-3-18.pdf)

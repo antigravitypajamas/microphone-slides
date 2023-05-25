@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "af05f2baa8181bb5",
+        "id": "3aca88e807d8ab0a",
         "type": "tabs",
         "children": [
           {
-            "id": "1477bc226bcc0889",
+            "id": "251445bb37f762a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ribbon Mics/AEA KU5A.md",
+                "file": "Ribbon Mics/AEA R88 MK2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ribbon Mics/AEA KU5A.md",
+                "file": "Ribbon Mics/AEA R88 MK2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ribbon Mics/AEA KU5A.md",
+                "file": "Ribbon Mics/AEA R88 MK2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ribbon Mics/AEA KU5A.md"
+                "file": "Ribbon Mics/AEA R88 MK2.md"
               }
             }
           }
@@ -146,10 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58a9daa5017c63cb",
+  "active": "251445bb37f762a1",
   "lastOpenFiles": [
-    "images/AEA_KU5A_01.jpg",
     "Ribbon Mics/AEA KU5A.md",
+    "images/AEA_KU5A_01.jpg",
     "microphone-slides/README.md",
     "Ribbon Mics/Shure Model 300.md",
     "Ribbon Mics/Shure Model SM33.md",
@@ -175,7 +175,6 @@
     "images/m160.pdf",
     "images/fathead-sideview.jpg",
     "images/DAT_M160_EN_A6.pdf",
-    "images/fat head II frequency response.png",
     "images/AEA_KU5A_Specs_12-10-18.pdf",
     "images/AEA-R88-Specifications-2-3-18.pdf",
     "images",
