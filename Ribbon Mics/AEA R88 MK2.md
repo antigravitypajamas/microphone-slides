@@ -1,3 +1,6 @@
+**Polar pattern:** Bidirectional
+**Freq. range:** 20 Hz to 20 kHz
+
 ### Notes
 - Two separate ribbon diaphragms allow you to use either Blumlein or M/S stereo recording configurations
 - Easy to aim
