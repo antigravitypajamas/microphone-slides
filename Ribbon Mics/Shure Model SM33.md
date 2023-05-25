@@ -11,8 +11,8 @@
 
 ### Images
 
-![[sm33a.jpg]]
+![](../images/sm33a.jpg)
 
-![[sm33freq.png]]
+![](../images/sm33polr.png)
 
-![[sm33polr.png]]
+![](../images/sm33freq.png)
