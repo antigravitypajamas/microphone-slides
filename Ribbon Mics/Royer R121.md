@@ -7,6 +7,6 @@
 - [Royer Labs cutsheet](https://royerlabs.com/pdf/cutsheets/R-121cutsheet.pdf)
 
 ### Images
-![[R-121-300.jpg]]
+![](../images/R-121-300.jpg)
 
-![[R-121cutsheet.pdf]]
+![](../images/R-121cutsheet.pdf)
