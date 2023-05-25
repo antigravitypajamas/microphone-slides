@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ribbon Mics/RCA Type 77-B.md",
+                "file": "Ribbon Mics/Royer R101.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ribbon Mics/RCA Type 77-B.md",
+                "file": "Ribbon Mics/Royer R101.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ribbon Mics/RCA Type 77-B.md",
+                "file": "Ribbon Mics/Royer R101.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ribbon Mics/RCA Type 77-B.md"
+                "file": "Ribbon Mics/Royer R101.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58a9daa5017c63cb",
+  "active": "9abef2884f417a2a",
   "lastOpenFiles": [
+    "Ribbon Mics/RCA Type 77-B.md",
     "images/rca type 77-b freq.png",
     "images/rca type 77-b freq",
     "images/Unconfirmed 503951.crdownload",
@@ -169,7 +170,6 @@
     "Ribbon Mics/Shure Model 300.md",
     "Ribbon Mics/Shure Model SM33.md",
     "Ribbon Mics/Royer R121.md",
-    "Ribbon Mics/RCA Type 77-B.md",
     "Ribbon Mics/Royer R101.md",
     "Ribbon Mics",
     "images/sm33freq.png",
@@ -180,7 +180,6 @@
     "images/R-121cutsheet.pdf",
     "images/R-121-300.jpg",
     "images/melodium 42bn spec sheet.png",
-    "images/melodium01.jpg",
     "README.md",
     "microphone-slides/Ribbon Mics/AEA KU5A.md",
     "microphone-slides/Ribbon Mics/Shure Model SM33.md",

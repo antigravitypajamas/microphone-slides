@@ -7,6 +7,6 @@
 - [Royer R101 cutsheet](https://royerlabs.com/pdf/cutsheets/R-101cutsheet.pdf)
 
 ### Images
-![[royer r101.jpg]]
+![](../images/royer%20r101.jpg)
 
-![[R-101cutsheet.pdf]]
+![](../images/R-101cutsheet.pdf)
