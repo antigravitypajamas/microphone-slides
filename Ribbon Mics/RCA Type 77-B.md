@@ -9,4 +9,8 @@
 - [Coutant](https://coutant.org/rca77b/)
 
 ### Image
-![[rca type 77-b.jpg]]
+![](../images/rca%20type%2077-b.jpg)
+
+![](../images/rca%20type%2077-b%20polar.png)
+
+![](../images/rca%20type%2077-b%20freq.png)
