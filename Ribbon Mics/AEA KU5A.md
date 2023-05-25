@@ -1,3 +1,6 @@
+**Polar pattern:** Hypercardioid
+**Freq. range:** 20 Hz to 20 kHz
+
 ### Notes
 - Optimized for use close up and on loud sources
 - High pass filter for taming proximity effect
