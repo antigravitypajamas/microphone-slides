@@ -1,3 +1,6 @@
+**Polar pattern:** Figure-8/Bidirectional
+**Freq. response:** 30 Hz to 15 kHz
+
 ### Notes
 - Can handle high sound pressure levels
 - Good for brass, woodwinds, and voices
