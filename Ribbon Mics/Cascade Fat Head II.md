@@ -1,3 +1,6 @@
+**Polar pattern:** Symmetrical figure-8/bidirectional
+**Freq. range:** 25 Hz to 16 kHz
+
 ### Notes
 - Has active and passive pickup modes
 - Great with kicks, electric guitar amps, and individual horns in passive mode
