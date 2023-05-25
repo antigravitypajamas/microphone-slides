@@ -1,3 +1,6 @@
+**Polar pattern:** Hypercardioid
+**Freq. response:** 40 Hz to 15 kHz
+
 ### Notes
 - Compact and rugged
 - Unusually effected super cardioid pickup characteristic minimizes effects of studio accoustics and background noise
