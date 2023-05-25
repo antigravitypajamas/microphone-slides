@@ -11,5 +11,4 @@
 ### Images
 ![](../images/AEA_KU5A_01.jpg)
 
-
-![[AEA_KU5A_Specs_12-10-18.pdf]]
+![](../images/AEA_KU5A_Specs_12-10-18.pdf)
