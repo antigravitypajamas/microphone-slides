@@ -2,7 +2,6 @@
 
 This repository is an Obsidian vault. It contains a variety of microphones split up into their type for ease of study.
 
-
 ## Table of Contents
 
 ### Ribbon Mics
