@@ -8,7 +8,6 @@
 - [Coutant](https://www.coutant.org/melodium/index.html)
 
 ### Images
+![](../images/melodium01.jpg)
 
-![[melodium01.jpg]]
-
-![[melodium 42bn spec sheet.png]]
+![](../images/melodium%2042bn%20spec%20sheet.png)
