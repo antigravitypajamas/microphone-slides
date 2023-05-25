@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ribbon Mics/AEA R88 MK2.md",
+                "file": "Ribbon Mics/Beyerdynamic M160.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ribbon Mics/AEA R88 MK2.md",
+                "file": "Ribbon Mics/Beyerdynamic M160.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ribbon Mics/AEA R88 MK2.md",
+                "file": "Ribbon Mics/Beyerdynamic M160.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ribbon Mics/AEA R88 MK2.md"
+                "file": "Ribbon Mics/Beyerdynamic M160.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "26d112d3e4ec2c8f",
   "lastOpenFiles": [
+    "Ribbon Mics/AEA R88 MK2.md",
     "Ribbon Mics/AEA KU5A.md",
     "README.md",
-    "Ribbon Mics/AEA R88 MK2.md",
     "images/m160.pdf",
     "images/AEA-R88-Specifications-2-3-18.pdf",
     "images/R-121cutsheet.pdf",
