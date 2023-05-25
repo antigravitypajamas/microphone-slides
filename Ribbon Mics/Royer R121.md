@@ -9,4 +9,6 @@
 ### Images
 ![](../images/R-121-300.jpg)
 
-![](../images/R-121cutsheet.pdf)
+![](../images/R-121cutsheet_1.png)
+
+![](../images/R-121cutsheet_2.png)

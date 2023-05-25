@@ -11,12 +11,8 @@
             "id": "26d112d3e4ec2c8f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ribbon Mics/Beyerdynamic M160.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ribbon Mics/Beyerdynamic M160.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ribbon Mics/Beyerdynamic M160.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Ribbon Mics/Beyerdynamic M160.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,41 +138,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "26d112d3e4ec2c8f",
+  "active": "58a9daa5017c63cb",
   "lastOpenFiles": [
+    "images/AEA-R88-Specifications-2-3-18.pdf",
+    "images/R-121cutsheet.pdf",
+    "Ribbon Mics/Royer R121.md",
+    "images/R-121cutsheet_2.png",
+    "images/R-121cutsheet_1.png",
+    "images/R-101cutsheet.pdf",
+    "Ribbon Mics/Royer R101.md",
+    "Ribbon Mics/Beyerdynamic M160.md",
+    "images/R-101cutsheet_2.png",
+    "images/R-101cutsheet_1.png",
     "images/beyerdynamic m160.jpg",
     "images/beyerdynamic m160.jpg.crdownload",
     "images/DAT_M160_EN_A6_2.png",
     "images/DAT_M160_EN_A6_1.png",
     "Ribbon Mics/AEA R88 MK2.md",
     "images/AEA-R88-Specifications-2-3-18_1.png",
-    "images/AEA-R88-Specifications-2-3-18.pdf",
     "images/AEA-R88-Specifications-2-3-18_2.png",
     "Ribbon Mics/AEA KU5A.md",
     "images/AEA_KU5A_Specs_12-10-18.png_1.png",
-    "images/AEA_KU5A_Specs_12-10-18.png_2.png",
     "images/AEA_KU5A_Specs_12-10-18.png.pdf",
     "Ribbon Mics/Shure Model 300.md",
     "Ribbon Mics/Shure Model SM33.md",
-    "Ribbon Mics/Royer R121.md",
-    "Ribbon Mics/Royer R101.md",
     "Ribbon Mics/RCA Type 77-B.md",
-    "images/rca type 77-b freq.png",
     "images/rca type 77-b freq",
     "images/Unconfirmed 503951.crdownload",
-    "images/rca type 77-b polar.png",
     "images/rca type 77-b polar.png.crdownload",
     "images/rca type 77b freq",
     "images/Unconfirmed 507990.crdownload",
     "images/rca type 77b polar",
-    "images/Unconfirmed 53167.crdownload",
     "Ribbon Mics/Melodium 42bn.md",
     "Ribbon Mics/Coles 4038.md",
     "Ribbon Mics/Cascade Fat Head II.md",
-    "Ribbon Mics/Beyerdynamic M160.md",
-    "images/AEA_KU5A_01.jpg",
     "microphone-slides/README.md",
-    "images/sm33freq.png",
     "README.md",
     "microphone-slides/Ribbon Mics/AEA KU5A.md",
     "microphone-slides/Ribbon Mics/Shure Model SM33.md",

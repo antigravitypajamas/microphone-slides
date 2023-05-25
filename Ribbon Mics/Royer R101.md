@@ -9,4 +9,6 @@
 ### Images
 ![](../images/royer%20r101.jpg)
 
-![](../images/R-101cutsheet.pdf)
+![](../images/R-101cutsheet_1.png)
+
+![](../images/R-101cutsheet_2.png)
