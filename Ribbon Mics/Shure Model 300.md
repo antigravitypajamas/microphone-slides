@@ -1,3 +1,6 @@
+**Polar pattern:** Bidirectional
+**Freq. response:** 40 Hz to 15 kHz
+
 ### Notes
 - Wide range frequency response
 - Bidirectional polar pattern
