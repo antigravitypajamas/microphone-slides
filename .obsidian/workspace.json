@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ribbon Mics/Coles 4038.md",
+                "file": "Ribbon Mics/Melodium 42bn.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ribbon Mics/Coles 4038.md",
+                "file": "Ribbon Mics/Melodium 42bn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ribbon Mics/Coles 4038.md",
+                "file": "Ribbon Mics/Melodium 42bn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ribbon Mics/Coles 4038.md"
+                "file": "Ribbon Mics/Melodium 42bn.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "26d112d3e4ec2c8f",
   "lastOpenFiles": [
+    "Ribbon Mics/Coles 4038.md",
     "Ribbon Mics/Cascade Fat Head II.md",
     "Ribbon Mics/Beyerdynamic M160.md",
     "Ribbon Mics/AEA R88 MK2.md",
@@ -179,7 +180,6 @@
     "images/rca type 77-b polar.png.crdownload",
     "images/rca type 77b freq",
     "Ribbon Mics/Melodium 42bn.md",
-    "Ribbon Mics/Coles 4038.md",
     "microphone-slides/README.md",
     "microphone-slides/Ribbon Mics/AEA KU5A.md",
     "microphone-slides/Ribbon Mics/Shure Model SM33.md",

@@ -1,3 +1,6 @@
+**Polar pattern:** Bidirectional
+**Freq. response:** 30 Hz to 15 kHz
+
 ### Notes
 - Largest ribbon
 - Enormous proximity effect at the low end, audibly limited high-frequency response, and everything in between sounds natural
