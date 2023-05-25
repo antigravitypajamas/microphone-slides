@@ -9,6 +9,6 @@
 - [Recording Hacks review](http://recordinghacks.com/microphones/Cascade/Fat-Head-II)
 
 ### Images
-![[fathead-sideview.jpg]]
+![](../images/fathead-sideview.jpg)
 
-![[fat head II frequency response.png]]
+![](../images/fat%20head%20II%20frequency%20response.png)
