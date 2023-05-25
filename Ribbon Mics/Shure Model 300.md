@@ -10,10 +10,10 @@
 - [Coutant](https://www.coutant.org/shure300/index.html)
 
 ### Images
-![[300a.jpg]]
+![](../images/300a.jpg)
 
-![[300freq.png]]
+![](../images/300polar.png)
 
-![[300polar.png]]
+![](../images/300freq.png)
 
-![[300ad.jpg]]
+![](../images/300ad.jpg)

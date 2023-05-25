@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ribbon Mics/Royer R121.md",
+                "file": "Ribbon Mics/Shure Model 300.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ribbon Mics/Royer R121.md",
+                "file": "Ribbon Mics/Shure Model 300.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ribbon Mics/Royer R121.md",
+                "file": "Ribbon Mics/Shure Model 300.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ribbon Mics/Royer R121.md"
+                "file": "Ribbon Mics/Shure Model 300.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "9abef2884f417a2a",
   "lastOpenFiles": [
+    "Ribbon Mics/Royer R121.md",
     "Ribbon Mics/Royer R101.md",
     "Ribbon Mics/RCA Type 77-B.md",
     "images/rca type 77-b freq.png",
@@ -170,7 +171,6 @@
     "microphone-slides/README.md",
     "Ribbon Mics/Shure Model 300.md",
     "Ribbon Mics/Shure Model SM33.md",
-    "Ribbon Mics/Royer R121.md",
     "Ribbon Mics",
     "images/sm33freq.png",
     "images/sm33polr.png",
