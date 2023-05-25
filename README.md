@@ -1,6 +1,6 @@
 # microphone-slides
 
-This repository is an Obsidian vault. It contains a variety of microphones split up into their type for ease of study.
+This repository is an [Obsidian](https://obsidian.md/) vault. It contains a variety of microphones split up into their type for ease of study.
 
 ## Table of Contents
 
