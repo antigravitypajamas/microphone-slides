@@ -9,6 +9,7 @@
 - [Sound on Sound review](https://www.soundonsound.com/reviews/aea-ku5a)
 
 ### Images
-![[AEA_KU5A_01-yvh.opSMc95gBBHGcRMknFtcNizFDqFu.jpg]]
+![aea ku5a](obsidian://open?vault=microphone-slides&file=images%2FAEA_KU5A_01-yvh.opSMc95gBBHGcRMknFtcNizFDqFu.jpg)
+
 
 ![[AEA_KU5A_Specs_12-10-18.pdf]]

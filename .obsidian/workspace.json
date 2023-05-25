@@ -11,8 +11,12 @@
             "id": "1477bc226bcc0889",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ribbon Mics/AEA KU5A.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ribbon Mics/AEA KU5A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ribbon Mics/AEA KU5A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ribbon Mics/AEA KU5A.md"
+              }
             }
           }
         ]
@@ -140,6 +148,8 @@
   },
   "active": "1477bc226bcc0889",
   "lastOpenFiles": [
+    "images/AEA_KU5A_01-yvh.opSMc95gBBHGcRMknFtcNizFDqFu.jpg",
+    "Ribbon Mics/AEA KU5A.md",
     "microphone-slides/README.md",
     "Ribbon Mics/Shure Model 300.md",
     "Ribbon Mics/Shure Model SM33.md",
@@ -151,7 +161,6 @@
     "Ribbon Mics/Cascade Fat Head II.md",
     "Ribbon Mics/Beyerdynamic M160.md",
     "Ribbon Mics/AEA R88 MK2.md",
-    "Ribbon Mics/AEA KU5A.md",
     "Ribbon Mics",
     "images/sm33freq.png",
     "images/sm33polr.png",
