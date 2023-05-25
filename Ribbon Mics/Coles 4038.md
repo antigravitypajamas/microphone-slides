@@ -1,3 +1,6 @@
+**Polar pattern:** Bidirectional
+**Freq. response:** 30 Hz to 15 kHz
+
 ### Notes
 - Pressure-gradient transducer
 - Used for broadcasting
