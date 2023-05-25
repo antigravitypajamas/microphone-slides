@@ -6,4 +6,8 @@
 [Beyerdynamic North America](https://north-america.beyerdynamic.com/m-160.html)
 
 ### Images
-![](../images/DAT_M160_EN_A6.pdf)
+![](../images/beyerdynamic%20m160.jpg)
+
+![](../images/DAT_M160_EN_A6_1.png)
+
+![](../images/DAT_M160_EN_A6_2.png)
