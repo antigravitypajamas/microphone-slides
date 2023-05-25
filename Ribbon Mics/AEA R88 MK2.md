@@ -9,4 +9,10 @@
 ### Images
 ![](../images/AEA_R88_Product_Photo.png)
 
-![](../images/AEA-R88-Specifications-2-3-18.pdf)
+![](../images/AEA-R88-Specifications-2-3-18_1.png)
+
+![](../images/AEA-R88-Specifications-2-3-18_2.png)
+
+
+
+
