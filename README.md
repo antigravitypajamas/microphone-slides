@@ -6,17 +6,17 @@ This repository contains a variety of microphones split up into their type for e
 ## Table of Contents
 
 ### Ribbon Mics
-- [AEA KU5A](obsidian://open?vault=microphone-slides&file=Ribbon%20Mics%2FAEA%20KU5A)
-- [AEA R88 MK2](obsidian://open?vault=microphone-slides&file=Ribbon%20Mics%2FAEA%20R88%20MK2)
-- [Beyerdynamic M160](obsidian://open?vault=microphone-slides&file=Ribbon%20Mics%2FBeyerdynamic%20M160)
-- [Cascade Fat Head II](obsidian://open?vault=microphone-slides&file=Ribbon%20Mics%2FCascade%20Fat%20Head%20II)
-- [Coles 4038](obsidian://open?vault=microphone-slides&file=Ribbon%20Mics%2FColes%204038)
-- [Melodium 42bn](obsidian://open?vault=microphone-slides&file=Ribbon%20Mics%2FMelodium%2042bn)
-- [RCA Type 77-B](obsidian://open?vault=microphone-slides&file=Ribbon%20Mics%2FRCA%20Type%2077-B)
-- [Royer R101](obsidian://open?vault=microphone-slides&file=Ribbon%20Mics%2FRoyer%20R101)
-- [Royer R121](obsidian://open?vault=microphone-slides&file=Ribbon%20Mics%2FRoyer%20R121)
-- [Shure Model 300](obsidian://open?vault=microphone-slides&file=Ribbon%20Mics%2FShure%20Model%20300)
-- [Shure Model SM33](obsidian://open?vault=microphone-slides&file=Ribbon%20Mics%2FShure%20Model%20SM33)
+- [AEA KU5A](Ribbon%20Mics/AEA%20KU5A.md)
+- [AEA R88 MK2](Ribbon%20Mics/AEA%20R88%20MK2.md)
+- [Beyerdynamic M160](Ribbon%20Mics/Beyerdynamic%20M160.md)
+- [Cascade Fat Head II](Ribbon%20Mics/Cascade%20Fat%20Head%20II.md)
+- [Coles 4038](Ribbon%20Mics/Coles%204038.md)
+- [Melodium 42bn](Ribbon%20Mics/Melodium%2042bn.md)
+- [RCA Type 77-B](Ribbon%20Mics/RCA%20Type%2077-B.md)
+- [Royer R101](Ribbon%20Mics/Royer%20R101.md)
+- [Royer R121](Ribbon%20Mics/Royer%20R121.md)
+- [Shure Model 300](Ribbon%20Mics/Shure%20Model%20300.md)
+- [Shure Model SM33](Ribbon%20Mics/Shure%20Model%20SM33.md)
 
 ### Dynamic Mics
 - TODO
