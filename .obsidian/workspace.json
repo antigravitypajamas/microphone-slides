@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "a59d9fdeb5adadef",
+    "type": "split",
+    "children": [
+      {
+        "id": "af05f2baa8181bb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1477bc226bcc0889",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5bebb34e44306216",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b8e2bccb5014085",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58a9daa5017c63cb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2d93946782883359",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f039c24103f9fdce",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f1bf0bbad8e61144",
+    "type": "split",
+    "children": [
+      {
+        "id": "97745355e96bc004",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "127e19779e3fb678",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d557a91d5c2d920c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f4e014b6cbddd775",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "28a10961034686fd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1477bc226bcc0889",
+  "lastOpenFiles": [
+    "microphone-slides/README.md",
+    "Ribbon Mics/Shure Model 300.md",
+    "Ribbon Mics/Shure Model SM33.md",
+    "Ribbon Mics/Royer R121.md",
+    "Ribbon Mics/RCA Type 77-B.md",
+    "Ribbon Mics/Royer R101.md",
+    "Ribbon Mics/Melodium 42bn.md",
+    "Ribbon Mics/Coles 4038.md",
+    "Ribbon Mics/Cascade Fat Head II.md",
+    "Ribbon Mics/Beyerdynamic M160.md",
+    "Ribbon Mics/AEA R88 MK2.md",
+    "Ribbon Mics/AEA KU5A.md",
+    "Ribbon Mics",
+    "images/sm33freq.png",
+    "images/sm33polr.png",
+    "images/sm33a.jpg",
+    "images/royer r101.jpg",
+    "images/rca type 77-b.jpg",
+    "images/R-121cutsheet.pdf",
+    "images/R-121-300.jpg",
+    "images/R-101cutsheet.pdf",
+    "images/melodium 42bn spec sheet.png",
+    "images/melodium01.jpg",
+    "images/m160.pdf",
+    "images/fathead-sideview.jpg",
+    "images/DAT_M160_EN_A6.pdf",
+    "images/fat head II frequency response.png",
+    "images/AEA_KU5A_Specs_12-10-18.pdf",
+    "images/AEA-R88-Specifications-2-3-18.pdf",
+    "images",
+    "README.md",
+    "LICENSE",
+    "microphone-slides/Ribbon Mics/AEA KU5A.md",
+    "microphone-slides/images/R-121cutsheet.pdf",
+    "microphone-slides/Ribbon Mics/Shure Model SM33.md",
+    "microphone-slides/Ribbon Mics/Shure Model 300.md",
+    "microphone-slides/Ribbon Mics/Royer R121.md",
+    "microphone-slides/Ribbon Mics/Royer R101.md",
+    "microphone-slides/Ribbon Mics/RCA Type 77-B.md",
+    "microphone-slides/Ribbon Mics/Melodium 42bn.md",
+    "microphone-slides/Ribbon Mics/Coles 4038.md",
+    "microphone-slides/Ribbon Mics/Cascade Fat Head II.md",
+    "microphone-slides/Ribbon Mics/Beyerdynamic M160.md",
+    "microphone-slides/Ribbon Mics/AEA R88 MK2.md"
+  ]
+}
