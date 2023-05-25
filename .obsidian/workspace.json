@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bb9feb86ec3ea228",
+        "id": "15db3819a550e936",
         "type": "tabs",
         "children": [
           {
-            "id": "9abef2884f417a2a",
+            "id": "26d112d3e4ec2c8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ribbon Mics/Shure Model SM33.md",
+                "file": "Ribbon Mics/AEA KU5A.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ribbon Mics/Shure Model SM33.md",
+                "file": "Ribbon Mics/AEA KU5A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ribbon Mics/Shure Model SM33.md",
+                "file": "Ribbon Mics/AEA KU5A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ribbon Mics/Shure Model SM33.md"
+                "file": "Ribbon Mics/AEA KU5A.md"
               }
             }
           }
@@ -146,9 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9abef2884f417a2a",
+  "active": "26d112d3e4ec2c8f",
   "lastOpenFiles": [
+    "images/AEA_KU5A_Specs_12-10-18.png_1.png",
+    "images/AEA_KU5A_Specs_12-10-18.png_2.png",
+    "images/AEA_KU5A_Specs_12-10-18.png.pdf",
+    "Ribbon Mics/AEA KU5A.md",
     "Ribbon Mics/Shure Model 300.md",
+    "Ribbon Mics/Shure Model SM33.md",
     "Ribbon Mics/Royer R121.md",
     "Ribbon Mics/Royer R101.md",
     "Ribbon Mics/RCA Type 77-B.md",
@@ -167,19 +172,14 @@
     "images/m160.pdf",
     "Ribbon Mics/Beyerdynamic M160.md",
     "Ribbon Mics/AEA R88 MK2.md",
-    "Ribbon Mics/AEA KU5A.md",
     "images/AEA_KU5A_01.jpg",
     "microphone-slides/README.md",
-    "Ribbon Mics/Shure Model SM33.md",
     "Ribbon Mics",
     "images/sm33freq.png",
     "images/sm33polr.png",
     "images/sm33a.jpg",
     "images/royer r101.jpg",
     "images/rca type 77-b.jpg",
-    "images/R-121cutsheet.pdf",
-    "images/R-121-300.jpg",
-    "images/melodium 42bn spec sheet.png",
     "README.md",
     "microphone-slides/Ribbon Mics/AEA KU5A.md",
     "microphone-slides/Ribbon Mics/Shure Model SM33.md",
