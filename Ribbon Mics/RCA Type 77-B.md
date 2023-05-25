@@ -1,3 +1,6 @@
+**Polar pattern:** Cardioid
+**Freq. response:** 40 Hz to 10 kHz
+
 ### Notes
 - Unidirectional microphone
 - First of the iconic pill shaped design
