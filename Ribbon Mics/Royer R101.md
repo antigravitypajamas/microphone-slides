@@ -1,3 +1,6 @@
+**Polar pattern:** Figure-8/Bidirectional
+**Freq. response:** 30 Hz to 15 kHz
+
 ### Notes
 - Works brilliantly with bright sources like brass, close strings, percussion, etc.
 - Notibly brighter on rear of mic, intentional result of the offset ribbon transducer design. For example, crisper results on an accoustic guitar
