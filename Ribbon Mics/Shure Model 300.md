@@ -1,4 +1,7 @@
+# Shure Model 300
+
 **Polar pattern:** Bidirectional
+
 **Freq. response:** 40 Hz to 15 kHz
 
 ### Notes

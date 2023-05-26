@@ -1,4 +1,7 @@
+# AEA KU5A
+
 **Polar pattern:** Hypercardioid
+
 **Freq. range:** 20 Hz to 20 kHz
 
 ### Notes

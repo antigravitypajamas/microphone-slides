@@ -1,4 +1,7 @@
+# AEA R88 MK2
+
 **Polar pattern:** Bidirectional
+
 **Freq. range:** 20 Hz to 20 kHz
 
 ### Notes

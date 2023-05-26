@@ -1,4 +1,7 @@
+# Cascade Fat Head II
+
 **Polar pattern:** Symmetrical figure-8/bidirectional
+
 **Freq. range:** 25 Hz to 16 kHz
 
 ### Notes

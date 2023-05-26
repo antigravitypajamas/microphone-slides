@@ -1,4 +1,7 @@
+# Royer R121
+
 **Polar pattern:** Figure-8/Bidirectional
+
 **Freq. response:** 30 Hz to 15 kHz
 
 ### Notes

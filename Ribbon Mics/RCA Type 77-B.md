@@ -1,4 +1,7 @@
+# RCA Type 77-B
+
 **Polar pattern:** Cardioid
+
 **Freq. response:** 40 Hz to 10 kHz
 
 ### Notes

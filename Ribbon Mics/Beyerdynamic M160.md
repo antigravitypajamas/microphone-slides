@@ -1,4 +1,7 @@
+# Beyerdynamic M160
+
 **Polar pattern:** Hypercardioid
+
 **Freq. range:** 40 Hz to 18 kHz
 
 ### Notes

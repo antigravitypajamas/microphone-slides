@@ -1,4 +1,7 @@
+# Shure Model SM33
+
 **Polar pattern:** Hypercardioid
+
 **Freq. response:** 40 Hz to 15 kHz
 
 ### Notes
