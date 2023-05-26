@@ -18,6 +18,10 @@
 
 ![](../images/pb90ad.png)
 
-At the time of writing, I could not find a polar pattern. However, there are multiple comparisons to the RCA 44. Being a velocity microphone as well, it seems likely that the PB-90 is bidirectional. 
+At the time of writing, I could not find a polar pattern. However, there are multiple comparisons to the RCA 44. Being a velocity microphone as well, it seems likely that the PB-90 is bidirectional. The following images are pulled from the [Coutant entry on the RCA 44](https://coutant.org/rca44bx/).
 
 ![](../images/rca%20type%2044.jpg)
+
+![](../images/rca%2044bx.jpg)
+
+![](../images/rca%2044%20location%20example.png)

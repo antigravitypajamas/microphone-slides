@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ribbon Mics/AEA KU5A.md",
+                "file": "Ribbon Mics/RCA Type PB-90.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ribbon Mics/AEA KU5A.md",
+                "file": "Ribbon Mics/RCA Type PB-90.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ribbon Mics/AEA KU5A.md",
+                "file": "Ribbon Mics/RCA Type PB-90.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ribbon Mics/AEA KU5A.md"
+                "file": "Ribbon Mics/RCA Type PB-90.md"
               }
             }
           }
@@ -161,6 +161,11 @@
   },
   "active": "7fee65a2771ed088",
   "lastOpenFiles": [
+    "Ribbon Mics/AEA KU5A.md",
+    "images/rca 44 location example.png",
+    "images/rca 44 location example.png.crdownload",
+    "images/rca 44bx.jpg",
+    "images/rca 44bx.jpg.crdownload",
     "Ribbon Mics/AEA R88 MK2.md",
     "Ribbon Mics/Beyerdynamic M160.md",
     "Ribbon Mics/Cascade Fat Head II.md",
@@ -172,7 +177,6 @@
     "Ribbon Mics/Royer R121.md",
     "Ribbon Mics/Shure Model 300.md",
     "Ribbon Mics/Shure Model SM33.md",
-    "Ribbon Mics/AEA KU5A.md",
     "images/rca type 44.jpg",
     "images/rca type 44.jpg.crdownload",
     "images/pb90ad.png",
@@ -190,10 +194,6 @@
     "images/R-101cutsheet_1.png",
     "images/beyerdynamic m160.jpg",
     "images/beyerdynamic m160.jpg.crdownload",
-    "images/DAT_M160_EN_A6_2.png",
-    "images/DAT_M160_EN_A6_1.png",
-    "images/AEA_KU5A_Specs_12-10-18.png.pdf",
-    "images/rca type 77-b freq",
     "microphone-slides/README.md",
     "microphone-slides/Ribbon Mics/AEA KU5A.md",
     "microphone-slides/Ribbon Mics/Shure Model SM33.md",
