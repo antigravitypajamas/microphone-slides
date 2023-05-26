@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5e3ed7ce6bbb03a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cables and Cords/Cables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Human vs. Scientific Listening.md",
+                "file": "Cables and Cords/Cables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Human vs. Scientific Listening.md",
+                "file": "Cables and Cords/Cables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Human vs. Scientific Listening.md"
+                "file": "Cables and Cords/Cables.md"
               }
             }
           }
@@ -195,25 +207,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2a4cc567d625566d",
+  "active": "5e3ed7ce6bbb03a2",
   "lastOpenFiles": [
-    "Vocabulary/Mid-Side recording.md",
+    "images/speakon cable.png",
+    "images/speakon cable.png.crdownload",
+    "images/xlr cable.png",
+    "images/xlr cable.png.crdownload",
+    "images/rca cable.jpg",
+    "images/rca cable.jpg.crdownload",
+    "images/networking-coaixal_cable_01_mobile.jpg",
+    "images/networking-coaixal_cable_01_mobile.jpg.crdownload",
+    "images/trs cable.jpg",
+    "images/trs cable.jpg.crdownload",
+    "images/audio patch bay cable.jpg",
+    "images/audio patch bay cable.jpg.crdownload",
+    "images/quarter inch ts cable.jpg",
+    "images/quarter inch ts cable.jpg.crdownload",
     "Vocabulary/Human vs. Scientific Listening.md",
+    "Cables and Cords/Cables.md",
+    "Cables and Cords",
+    "Vocabulary/Mid-Side recording.md",
     "Vocabulary/Blumlein configuration.md",
     "Ribbon Mics/Sontronics Sigma 2.md",
     "Vocabulary",
     "images/datasheet_Sontronics_Sigma2.png",
     "images/datasheet_Sontronics_Sigma2.pdf",
-    "images/Unconfirmed 341043.crdownload",
     "README.md",
     "images/Sontronics_Sigma2_cutout_front_SHAD_edit.png",
-    "images/Sontronics_Sigma2_cutout_front_SHAD_edit.png.crdownload",
     "Ribbon Mics/RCA Type PB-90 or 44-BX.md",
     "Ribbon Mics/AEA KU5A.md",
     "images/rca 44 location example.png",
-    "images/rca 44 location example.png.crdownload",
     "images/rca 44bx.jpg",
-    "images/rca 44bx.jpg.crdownload",
     "Ribbon Mics/AEA R88 MK2.md",
     "Ribbon Mics/Beyerdynamic M160.md",
     "Ribbon Mics/Cascade Fat Head II.md",
@@ -224,24 +248,12 @@
     "Ribbon Mics/Royer R121.md",
     "Ribbon Mics/Shure Model 300.md",
     "Ribbon Mics/Shure Model SM33.md",
-    "images/rca type 44.jpg",
-    "images/rca type 44.jpg.crdownload",
-    "images/pb90ad.png",
-    "images/pb90ad.png.crdownload",
-    "images/rcapb901.jpg",
-    "images/rcapb901.jpg.crdownload",
-    "images/m160.pdf",
-    "images/R-121cutsheet_2.png",
-    "images/R-121cutsheet_1.png",
-    "images/R-101cutsheet_2.png",
     "microphone-slides/README.md",
     "microphone-slides/Ribbon Mics/AEA KU5A.md",
     "microphone-slides/Ribbon Mics/Shure Model SM33.md",
     "microphone-slides/Ribbon Mics/Shure Model 300.md",
     "microphone-slides/Ribbon Mics/Royer R121.md",
     "microphone-slides/Ribbon Mics/Royer R101.md",
-    "microphone-slides/Ribbon Mics/RCA Type 77-B.md",
-    "microphone-slides/Ribbon Mics/Melodium 42bn.md",
-    "microphone-slides/Ribbon Mics/Coles 4038.md"
+    "microphone-slides/Ribbon Mics/RCA Type 77-B.md"
   ]
 }
