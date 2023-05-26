@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ffc874f0e5f62811",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vocabulary/Mid-Side recording.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Blumlein configuration.md",
+                "file": "Vocabulary/Mid-Side recording.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Blumlein configuration.md",
+                "file": "Vocabulary/Mid-Side recording.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Blumlein configuration.md"
+                "file": "Vocabulary/Mid-Side recording.md"
               }
             }
           }
@@ -171,10 +183,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f1bbd06869e72b6b",
+  "active": "ffc874f0e5f62811",
   "lastOpenFiles": [
-    "Ribbon Mics/Sontronics Sigma 2.md",
     "Vocabulary/Blumlein configuration.md",
+    "Vocabulary/Mid-Side recording.md",
+    "Ribbon Mics/Sontronics Sigma 2.md",
     "Vocabulary",
     "images/datasheet_Sontronics_Sigma2.png",
     "images/datasheet_Sontronics_Sigma2.pdf",
@@ -217,7 +230,6 @@
     "microphone-slides/Ribbon Mics/RCA Type 77-B.md",
     "microphone-slides/Ribbon Mics/Melodium 42bn.md",
     "microphone-slides/Ribbon Mics/Coles 4038.md",
-    "microphone-slides/Ribbon Mics/Cascade Fat Head II.md",
-    "microphone-slides/Ribbon Mics/Beyerdynamic M160.md"
+    "microphone-slides/Ribbon Mics/Cascade Fat Head II.md"
   ]
 }
