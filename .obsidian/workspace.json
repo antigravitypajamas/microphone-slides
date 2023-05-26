@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f1bbd06869e72b6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vocabulary/Blumlein configuration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ribbon Mics/Sontronics Sigma 2.md",
+                "file": "Vocabulary/Blumlein configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ribbon Mics/Sontronics Sigma 2.md",
+                "file": "Vocabulary/Blumlein configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ribbon Mics/Sontronics Sigma 2.md"
+                "file": "Vocabulary/Blumlein configuration.md"
               }
             }
           }
@@ -159,11 +171,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7fee65a2771ed088",
+  "active": "f1bbd06869e72b6b",
   "lastOpenFiles": [
+    "Ribbon Mics/Sontronics Sigma 2.md",
+    "Vocabulary/Blumlein configuration.md",
+    "Vocabulary",
     "images/datasheet_Sontronics_Sigma2.png",
     "images/datasheet_Sontronics_Sigma2.pdf",
-    "Ribbon Mics/Sontronics Sigma 2.md",
     "images/Unconfirmed 341043.crdownload",
     "README.md",
     "images/Sontronics_Sigma2_cutout_front_SHAD_edit.png",
@@ -191,7 +205,6 @@
     "images/rcapb901.jpg",
     "images/rcapb901.jpg.crdownload",
     "images/m160.pdf",
-    "images/AEA-R88-Specifications-2-3-18.pdf",
     "images/R-121cutsheet_2.png",
     "images/R-121cutsheet_1.png",
     "images/R-101cutsheet_2.png",
