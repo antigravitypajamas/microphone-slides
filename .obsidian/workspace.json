@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ribbon Mics/RCA Type PB-90.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ribbon Mics/RCA Type PB-90.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ribbon Mics/RCA Type PB-90.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ribbon Mics/RCA Type PB-90.md"
+                "file": "README.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "7fee65a2771ed088",
   "lastOpenFiles": [
+    "Ribbon Mics/RCA Type PB-90 or 44-BX.md",
     "Ribbon Mics/AEA KU5A.md",
     "images/rca 44 location example.png",
     "images/rca 44 location example.png.crdownload",
@@ -172,7 +173,6 @@
     "Ribbon Mics/Coles 4038.md",
     "Ribbon Mics/Melodium 42bn.md",
     "Ribbon Mics/RCA Type 77-B.md",
-    "Ribbon Mics/RCA Type PB-90.md",
     "Ribbon Mics/Royer R101.md",
     "Ribbon Mics/Royer R121.md",
     "Ribbon Mics/Shure Model 300.md",

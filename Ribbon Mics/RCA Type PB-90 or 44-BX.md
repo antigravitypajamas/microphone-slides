@@ -1,4 +1,4 @@
-# RCA Type PB-90
+# RCA Type PB-90 or 44-BX
 
 **Polar pattern:** Bidirectional
 

@@ -12,6 +12,7 @@ This repository is an [Obsidian](https://obsidian.md/) vault. It contains a vari
 - [Coles 4038](Ribbon%20Mics/Coles%204038.md)
 - [Melodium 42bn](Ribbon%20Mics/Melodium%2042bn.md)
 - [RCA Type 77-B](Ribbon%20Mics/RCA%20Type%2077-B.md)
+- [RCA Type PB-90 or 44-BX](Ribbon%20Mics/RCA%20Type%20PB-90%20or%2044-BX.md)
 - [Royer R101](Ribbon%20Mics/Royer%20R101.md)
 - [Royer R121](Ribbon%20Mics/Royer%20R121.md)
 - [Shure Model 300](Ribbon%20Mics/Shure%20Model%20300.md)
