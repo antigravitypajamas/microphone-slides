@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Ribbon Mics/Sontronics Sigma 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Ribbon Mics/Sontronics Sigma 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Ribbon Mics/Sontronics Sigma 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Ribbon Mics/Sontronics Sigma 2.md"
               }
             }
           }
@@ -161,6 +161,13 @@
   },
   "active": "7fee65a2771ed088",
   "lastOpenFiles": [
+    "images/datasheet_Sontronics_Sigma2.png",
+    "images/datasheet_Sontronics_Sigma2.pdf",
+    "Ribbon Mics/Sontronics Sigma 2.md",
+    "images/Unconfirmed 341043.crdownload",
+    "README.md",
+    "images/Sontronics_Sigma2_cutout_front_SHAD_edit.png",
+    "images/Sontronics_Sigma2_cutout_front_SHAD_edit.png.crdownload",
     "Ribbon Mics/RCA Type PB-90 or 44-BX.md",
     "Ribbon Mics/AEA KU5A.md",
     "images/rca 44 location example.png",
@@ -183,17 +190,11 @@
     "images/pb90ad.png.crdownload",
     "images/rcapb901.jpg",
     "images/rcapb901.jpg.crdownload",
-    "README.md",
     "images/m160.pdf",
     "images/AEA-R88-Specifications-2-3-18.pdf",
-    "images/R-121cutsheet.pdf",
     "images/R-121cutsheet_2.png",
     "images/R-121cutsheet_1.png",
-    "images/R-101cutsheet.pdf",
     "images/R-101cutsheet_2.png",
-    "images/R-101cutsheet_1.png",
-    "images/beyerdynamic m160.jpg",
-    "images/beyerdynamic m160.jpg.crdownload",
     "microphone-slides/README.md",
     "microphone-slides/Ribbon Mics/AEA KU5A.md",
     "microphone-slides/Ribbon Mics/Shure Model SM33.md",
@@ -204,7 +205,6 @@
     "microphone-slides/Ribbon Mics/Melodium 42bn.md",
     "microphone-slides/Ribbon Mics/Coles 4038.md",
     "microphone-slides/Ribbon Mics/Cascade Fat Head II.md",
-    "microphone-slides/Ribbon Mics/Beyerdynamic M160.md",
-    "microphone-slides/Ribbon Mics/AEA R88 MK2.md"
+    "microphone-slides/Ribbon Mics/Beyerdynamic M160.md"
   ]
 }

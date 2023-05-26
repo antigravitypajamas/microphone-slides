@@ -1,6 +1,6 @@
 # microphone-slides
 
-This repository is an [Obsidian](https://obsidian.md/) vault. It contains a variety of microphones split up into their type for ease of study.
+This repository is an [Obsidian](https://obsidian.md/) vault. Misleadingly named, it contains all notes I have  been able to transcribe for my time at IAEA. However, it does include a list of microphones and notes about their qualities.
 
 ## Table of Contents
 
