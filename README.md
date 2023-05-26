@@ -2,7 +2,13 @@
 
 This repository is an [Obsidian](https://obsidian.md/) vault. Misleadingly named, it contains all notes I have  been able to transcribe for my time at IAEA. However, it does include a list of microphones and notes about their qualities.
 
+This is a work in progress.
+
 ## Table of Contents
+
+### Cables and Cords
+- [Cables](Cables%20and%20Cords/Cables.md)
+- [Cords](Cables%20and%20Cords/Cords.md)
 
 ### Ribbon Mics
 - [AEA KU5A](Ribbon%20Mics/AEA%20KU5A.md)
@@ -22,3 +28,8 @@ This repository is an [Obsidian](https://obsidian.md/) vault. Misleadingly named
 - TODO
 ### Condenser Mics
 - TODO
+
+### Vocabulary and Concepts
+- [Human vs. Scientific Listening](Vocabulary%20and%20Concepts/Human%20vs.%20Scientific%20Listening.md)
+- [Blumlein configuration](Vocabulary%20and%20Concepts/Blumlein%20configuration.md)
+- [Mid-Side recording](Vocabulary%20and%20Concepts/Mid-Side%20recording.md)
