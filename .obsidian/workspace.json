@@ -78,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cf3ab4d767e88b08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cables and Cords/Cords.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -146,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cables and Cords/Cables.md",
+                "file": "Cables and Cords/Cords.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cables and Cords/Cables.md",
+                "file": "Cables and Cords/Cords.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cables and Cords/Cables.md"
+                "file": "Cables and Cords/Cords.md"
               }
             }
           }
@@ -207,8 +219,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e3ed7ce6bbb03a2",
+  "active": "cf3ab4d767e88b08",
   "lastOpenFiles": [
+    "images/ac adapter.jpg",
+    "images/ac adapter.jpg.crdownload",
+    "images/IEC_C13.jpg",
+    "images/IEC_C13.jpg.crdownload",
+    "Cables and Cords/Cables.md",
+    "Cables and Cords/Cords.md",
     "images/speakon cable.png",
     "images/speakon cable.png.crdownload",
     "images/xlr cable.png",
@@ -224,20 +242,15 @@
     "images/quarter inch ts cable.jpg",
     "images/quarter inch ts cable.jpg.crdownload",
     "Vocabulary/Human vs. Scientific Listening.md",
-    "Cables and Cords/Cables.md",
     "Cables and Cords",
     "Vocabulary/Mid-Side recording.md",
     "Vocabulary/Blumlein configuration.md",
     "Ribbon Mics/Sontronics Sigma 2.md",
-    "Vocabulary",
     "images/datasheet_Sontronics_Sigma2.png",
-    "images/datasheet_Sontronics_Sigma2.pdf",
     "README.md",
     "images/Sontronics_Sigma2_cutout_front_SHAD_edit.png",
     "Ribbon Mics/RCA Type PB-90 or 44-BX.md",
     "Ribbon Mics/AEA KU5A.md",
-    "images/rca 44 location example.png",
-    "images/rca 44bx.jpg",
     "Ribbon Mics/AEA R88 MK2.md",
     "Ribbon Mics/Beyerdynamic M160.md",
     "Ribbon Mics/Cascade Fat Head II.md",
@@ -253,7 +266,6 @@
     "microphone-slides/Ribbon Mics/Shure Model SM33.md",
     "microphone-slides/Ribbon Mics/Shure Model 300.md",
     "microphone-slides/Ribbon Mics/Royer R121.md",
-    "microphone-slides/Ribbon Mics/Royer R101.md",
-    "microphone-slides/Ribbon Mics/RCA Type 77-B.md"
+    "microphone-slides/Ribbon Mics/Royer R101.md"
   ]
 }
