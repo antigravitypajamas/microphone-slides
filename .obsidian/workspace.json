@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Blumlein configuration.md",
+                "file": "Vocabulary and Concepts/Blumlein configuration.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Mid-Side recording.md",
+                "file": "Vocabulary and Concepts/Mid-Side recording.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Human vs. Scientific Listening.md",
+                "file": "Vocabulary and Concepts/Human vs. Scientific Listening.md",
                 "mode": "source",
                 "source": false
               }
@@ -219,7 +219,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf3ab4d767e88b08",
+  "active": "58a9daa5017c63cb",
   "lastOpenFiles": [
     "images/ac adapter.jpg",
     "images/ac adapter.jpg.crdownload",
@@ -241,10 +241,10 @@
     "images/audio patch bay cable.jpg.crdownload",
     "images/quarter inch ts cable.jpg",
     "images/quarter inch ts cable.jpg.crdownload",
-    "Vocabulary/Human vs. Scientific Listening.md",
+    "Vocabulary and Concepts/Human vs. Scientific Listening.md",
     "Cables and Cords",
-    "Vocabulary/Mid-Side recording.md",
-    "Vocabulary/Blumlein configuration.md",
+    "Vocabulary and Concepts/Mid-Side recording.md",
+    "Vocabulary and Concepts/Blumlein configuration.md",
     "Ribbon Mics/Sontronics Sigma 2.md",
     "images/datasheet_Sontronics_Sigma2.png",
     "README.md",
