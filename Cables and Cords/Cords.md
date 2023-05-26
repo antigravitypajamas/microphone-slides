@@ -11,5 +11,3 @@
 *A converter that takes AC and turns it into DC to power devices.*
 
 ![](../images/ac%20adapter.jpg)
-
-### 
