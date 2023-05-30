@@ -5,6 +5,8 @@
 *Staff* - the five horizontal lines in which we write music
 *Timbre* - pronounced *tam-ber*, the color of the sound *created by the harmonics*
 
+**NOTE:** You need to be using [Obsidian](obsidian.md) with community plugins enabled with the ABCjs plugin enabled to view this section properly.
+
 *Treble*
 ```music-abc
 X: 1

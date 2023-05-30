@@ -11,7 +11,7 @@
 
 ### Simple Time examples
 
-**NOTE:** You may need to be using [Obsidian](obsidian.md) with community plugins enabled with the ABCjs plugin enabled to view this section properly.
+**NOTE:** You need to be using [Obsidian](obsidian.md) with community plugins enabled with the ABCjs plugin enabled to view this section properly.
 
 #### Duple
 
