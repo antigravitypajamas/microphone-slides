@@ -102,9 +102,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e76e13082e65106c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vocabulary and Concepts/Sound vs Pitch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary and Concepts/Simple and Compound Time.md",
+                "file": "Vocabulary and Concepts/Sound vs Pitch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary and Concepts/Simple and Compound Time.md",
+                "file": "Vocabulary and Concepts/Sound vs Pitch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary and Concepts/Simple and Compound Time.md"
+                "file": "Vocabulary and Concepts/Sound vs Pitch.md"
               }
             }
           }
@@ -231,10 +243,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0288310a91e8f614",
+  "active": "e76e13082e65106c",
   "lastOpenFiles": [
-    "Cables and Cords/Cables.md",
     "Vocabulary and Concepts/Simple and Compound Time.md",
+    "Vocabulary and Concepts/Sound vs Pitch.md",
+    "Cables and Cords/Cables.md",
     "Ribbon Mics/Sontronics Sigma 2.md",
     "Ribbon Mics/Shure Model SM33.md",
     "Ribbon Mics/Shure Model 300.md",
@@ -277,7 +290,6 @@
     "microphone-slides/Ribbon Mics/AEA KU5A.md",
     "microphone-slides/Ribbon Mics/Shure Model SM33.md",
     "microphone-slides/Ribbon Mics/Shure Model 300.md",
-    "microphone-slides/Ribbon Mics/Royer R121.md",
-    "microphone-slides/Ribbon Mics/Royer R101.md"
+    "microphone-slides/Ribbon Mics/Royer R121.md"
   ]
 }
