@@ -33,3 +33,5 @@ This is a work in progress.
 - [Human vs. Scientific Listening](Vocabulary%20and%20Concepts/Human%20vs.%20Scientific%20Listening.md)
 - [Blumlein configuration](Vocabulary%20and%20Concepts/Blumlein%20configuration.md)
 - [Mid-Side recording](Vocabulary%20and%20Concepts/Mid-Side%20recording.md)
+- [Sound vs Pitch](Vocabulary%20and%20Concepts/Sound%20vs%20Pitch.md)
+- [Simple and Compound Time](Vocabulary%20and%20Concepts/Simple%20and%20Compound%20Time.md)

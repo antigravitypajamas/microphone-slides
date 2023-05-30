@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary and Concepts/Sound vs Pitch.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary and Concepts/Sound vs Pitch.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary and Concepts/Sound vs Pitch.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary and Concepts/Sound vs Pitch.md"
+                "file": "README.md"
               }
             }
           }
@@ -245,8 +245,8 @@
   },
   "active": "e76e13082e65106c",
   "lastOpenFiles": [
-    "Vocabulary and Concepts/Simple and Compound Time.md",
     "Vocabulary and Concepts/Sound vs Pitch.md",
+    "Vocabulary and Concepts/Simple and Compound Time.md",
     "Cables and Cords/Cables.md",
     "Ribbon Mics/Sontronics Sigma 2.md",
     "Ribbon Mics/Shure Model SM33.md",
