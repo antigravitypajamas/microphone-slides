@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Condenser Mics/Rode NTV.md",
                 "mode": "source",
                 "source": false
               }
@@ -161,6 +161,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "a09869414db116b7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -182,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Condenser Mics/Rode NTV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Condenser Mics/Rode NTV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Condenser Mics/Rode NTV.md"
               }
             }
           }
@@ -245,51 +253,51 @@
   },
   "active": "e76e13082e65106c",
   "lastOpenFiles": [
+    "images/1999-05-rodentv-1-hOw.U4jDVii0TwS1Sv0uKxgLn7Cpaxxq.jpg",
+    "README.md",
+    "Condenser Mics/Rode NTV.md",
+    "Condenser Mics/SE Electronics Gemini II.md",
+    "images/se gemini ii.png",
+    "Microphone Companies/Telefunken.md",
+    "Condenser Mics/Telefunken Type U47.md",
+    "images/U47-White-newnew.jpg",
+    "Condenser Mics/Neumann Type M147 Tube.md",
+    "images/neumann type m147 tube.jpg",
+    "Microphone Companies/Audio Technica.md",
+    "Condenser Mics/Audio Technica AT4060.md",
+    "images/audio technica at4060_01.png",
+    "Condenser Mics/Microtech Gefell GMBH UM 70-S.md",
+    "images/neumann UM70S-.jpg",
+    "Condenser Mics/Neumann Type TLM-103.md",
+    "Condenser Mics/Neumann U87 Ai.md",
+    "images/neumann u87 ai.jpg",
+    "Microphone Companies/Microtech Gefell.md",
+    "Microphone Companies/Neumann.md",
+    "images/neumann type tlm-103.png",
+    "Microphone Companies/Sony.md",
+    "Microphone Companies/AKG.md",
+    "Condenser Mics/Sony C-48.md",
+    "images/sony c-48.jpg",
+    "Microphone Companies/Blue.md",
+    "Condenser Mics/AKG C414B-ULS.md",
+    "images/C414b_uls.png",
+    "Condenser Mics/Blue Dragonfly.md",
+    "images/bluedragonfly1.png",
+    "Ribbon Mics/AEA KU5A.md",
+    "Microphone Companies",
+    "Condenser Mics",
+    "New Text Document.txt",
+    "Condenser Mics",
+    "images/R-121cutsheet.pdf",
+    "images/R-101cutsheet.pdf",
+    "images/m160.pdf",
+    "images/datasheet_Sontronics_Sigma2.pdf",
+    "images/DAT_M160_EN_A6.pdf",
+    "images/AEA_KU5A_Specs_12-10-18.png.pdf",
     "Vocabulary and Concepts/Sound vs Pitch.md",
     "Vocabulary and Concepts/Simple and Compound Time.md",
     "Cables and Cords/Cables.md",
     "Ribbon Mics/Sontronics Sigma 2.md",
-    "Ribbon Mics/Shure Model SM33.md",
-    "Ribbon Mics/Shure Model 300.md",
-    "Ribbon Mics/Royer R121.md",
-    "Ribbon Mics/Royer R101.md",
-    "Ribbon Mics/RCA Type PB-90 or 44-BX.md",
-    "Ribbon Mics/RCA Type 77-B.md",
-    "Ribbon Mics/Melodium 42bn.md",
-    "Ribbon Mics/Coles 4038.md",
-    "Ribbon Mics/Cascade Fat Head II.md",
-    "Ribbon Mics/Beyerdynamic M160.md",
-    "Ribbon Mics/AEA R88 MK2.md",
-    "Ribbon Mics/AEA KU5A.md",
-    "Cables and Cords/Cords.md",
-    "Vocabulary and Concepts/Mid-Side recording.md",
-    "Vocabulary and Concepts/Human vs. Scientific Listening.md",
-    "Vocabulary and Concepts/Blumlein configuration.md",
-    "README.md",
-    "images/ac adapter.jpg",
-    "images/ac adapter.jpg.crdownload",
-    "images/IEC_C13.jpg",
-    "images/IEC_C13.jpg.crdownload",
-    "images/speakon cable.png",
-    "images/speakon cable.png.crdownload",
-    "images/xlr cable.png",
-    "images/xlr cable.png.crdownload",
-    "images/rca cable.jpg",
-    "images/rca cable.jpg.crdownload",
-    "images/networking-coaixal_cable_01_mobile.jpg",
-    "images/networking-coaixal_cable_01_mobile.jpg.crdownload",
-    "images/trs cable.jpg",
-    "images/trs cable.jpg.crdownload",
-    "images/audio patch bay cable.jpg",
-    "images/audio patch bay cable.jpg.crdownload",
-    "images/quarter inch ts cable.jpg",
-    "images/quarter inch ts cable.jpg.crdownload",
-    "Cables and Cords",
-    "images/datasheet_Sontronics_Sigma2.png",
-    "microphone-slides/README.md",
-    "microphone-slides/Ribbon Mics/AEA KU5A.md",
-    "microphone-slides/Ribbon Mics/Shure Model SM33.md",
-    "microphone-slides/Ribbon Mics/Shure Model 300.md",
-    "microphone-slides/Ribbon Mics/Royer R121.md"
+    "Ribbon Mics/Shure Model SM33.md"
   ]
 }

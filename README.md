@@ -1,6 +1,6 @@
 # microphone-slides
 
-This repository is an [Obsidian](https://obsidian.md/) vault. Misleadingly named, it contains all notes I have  been able to transcribe for my time at IAEA. However, it does include a list of microphones and notes about their qualities.
+This repository is an [Obsidian](https://obsidian.md/) vault. Misleadingly named, it contains all notes I have  been able to transcribe from my time at IAEA. However, it does include a list of microphones and notes about their qualities.
 
 This is a work in progress.
 
@@ -24,10 +24,29 @@ This is a work in progress.
 - [Shure Model 300](Ribbon%20Mics/Shure%20Model%20300.md)
 - [Shure Model SM33](Ribbon%20Mics/Shure%20Model%20SM33.md)
 
+### Condenser Mics
+- [AKG C414B-ULS](Condenser%20Mics/AKG%20C414B-ULS.md)
+- [Audio Technica AT4060](Condenser%20Mics/Audio%20Technica%20AT4060.md)
+- [Blue Dragonfly](Condenser%20Mics/Blue%20Dragonfly.md)
+- [Microtech Gefell GMBH UM 70-S](Condenser%20Mics/Microtech%20Gefell%20GMBH%20UM%2070-S.md)
+- [Neumann Type M147 Tube](Condenser%20Mics/Neumann%20Type%20M147%20Tube.md)
+- [Neumann Type TLM-103](Condenser%20Mics/Neumann%20Type%20TLM-103.md)
+- [Neumann U87 Ai](Condenser%20Mics/Neumann%20U87%20Ai.md)
+- [SE Electronics Gemini II](Condenser%20Mics/SE%20Electronics%20Gemini%20II.md)
+- [Sony C-48](Condenser%20Mics/Sony%20C-48.md)
+- [Telefunken Type U47](Condenser%20Mics/Telefunken%20Type%20U47.md)
+
 ### Dynamic Mics
 - TODO
-### Condenser Mics
-- TODO
+
+### Mic Companies
+- [AKG](Microphone%20Companies/AKG.md)
+- [Audio Technica](Microphone%20Companies/Audio%20Technica.md)
+- [Blue](Microphone%20Companies/Blue.md)
+- [Microtech Gefell](Microphone%20Companies/Microtech%20Gefell.md)
+- [Neumann](Microphone%20Companies/Neumann.md)
+- [Sony](Microphone%20Companies/Sony.md)
+- [Telefunken](Microphone%20Companies/Telefunken.md)
 
 ### Vocabulary and Concepts
 - [Human vs. Scientific Listening](Vocabulary%20and%20Concepts/Human%20vs.%20Scientific%20Listening.md)
