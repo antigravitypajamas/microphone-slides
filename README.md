@@ -45,6 +45,8 @@ This is a work in progress.
 - [Blue](Microphone%20Companies/Blue.md)
 - [Microtech Gefell](Microphone%20Companies/Microtech%20Gefell.md)
 - [Neumann](Microphone%20Companies/Neumann.md)
+- [Rode Microphones](Microphone%20Companies/Rode%20Microphones.md)
+- [sE Electronics](Microphone%20Companies/sE%20Electronics.md)
 - [Sony](Microphone%20Companies/Sony.md)
 - [Telefunken](Microphone%20Companies/Telefunken.md)
 

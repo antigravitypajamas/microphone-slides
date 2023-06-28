@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Condenser Mics/Rode NTV.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Condenser Mics/Rode NTV.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Condenser Mics/Rode NTV.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Condenser Mics/Rode NTV.md"
+                "file": "README.md"
               }
             }
           }
@@ -253,9 +253,11 @@
   },
   "active": "e76e13082e65106c",
   "lastOpenFiles": [
+    "Microphone Companies/Rode Microphones.md",
+    "Microphone Companies/sE Electronics.md",
+    "Condenser Mics/Rode NTV.md",
     "images/1999-05-rodentv-1-hOw.U4jDVii0TwS1Sv0uKxgLn7Cpaxxq.jpg",
     "README.md",
-    "Condenser Mics/Rode NTV.md",
     "Condenser Mics/SE Electronics Gemini II.md",
     "images/se gemini ii.png",
     "Microphone Companies/Telefunken.md",
@@ -282,7 +284,6 @@
     "Condenser Mics/AKG C414B-ULS.md",
     "images/C414b_uls.png",
     "Condenser Mics/Blue Dragonfly.md",
-    "images/bluedragonfly1.png",
     "Ribbon Mics/AEA KU5A.md",
     "Microphone Companies",
     "Condenser Mics",
@@ -297,7 +298,6 @@
     "Vocabulary and Concepts/Sound vs Pitch.md",
     "Vocabulary and Concepts/Simple and Compound Time.md",
     "Cables and Cords/Cables.md",
-    "Ribbon Mics/Sontronics Sigma 2.md",
-    "Ribbon Mics/Shure Model SM33.md"
+    "Ribbon Mics/Sontronics Sigma 2.md"
   ]
 }
