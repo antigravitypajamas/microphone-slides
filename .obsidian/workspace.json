@@ -109,14 +109,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Condenser Mics/AKG C414B-ULS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb3291e963b35d87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Microphone Companies/Telefunken.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -190,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Microphone Companies/Telefunken.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Microphone Companies/Telefunken.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Microphone Companies/Telefunken.md"
               }
             }
           }
@@ -251,39 +263,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e76e13082e65106c",
+  "active": "cb3291e963b35d87",
   "lastOpenFiles": [
-    "Microphone Companies/Rode Microphones.md",
+    "Microphone Companies/Sony.md",
     "Microphone Companies/sE Electronics.md",
-    "Condenser Mics/Rode NTV.md",
-    "images/1999-05-rodentv-1-hOw.U4jDVii0TwS1Sv0uKxgLn7Cpaxxq.jpg",
-    "README.md",
+    "Microphone Companies/Rode Microphones.md",
+    "Microphone Companies/Neumann.md",
+    "Microphone Companies/Microtech Gefell.md",
+    "Microphone Companies/Blue.md",
+    "Microphone Companies/Audio Technica.md",
+    "Microphone Companies/AKG.md",
+    "Condenser Mics/Telefunken Type U47.md",
+    "Condenser Mics/Sony C-48.md",
     "Condenser Mics/SE Electronics Gemini II.md",
+    "Condenser Mics/Rode NTV.md",
+    "Condenser Mics/Neumann U87 Ai.md",
+    "Condenser Mics/Neumann Type TLM-103.md",
+    "Condenser Mics/Neumann Type M147 Tube.md",
+    "Condenser Mics/Microtech Gefell GMBH UM 70-S.md",
+    "Condenser Mics/Audio Technica AT4060.md",
+    "README.md",
+    "images/C414b_uls.png",
+    "Condenser Mics/AKG C414B-ULS.md",
+    "Condenser Mics/Blue Dragonfly.md",
+    "images/1999-05-rodentv-1-hOw.U4jDVii0TwS1Sv0uKxgLn7Cpaxxq.jpg",
     "images/se gemini ii.png",
     "Microphone Companies/Telefunken.md",
-    "Condenser Mics/Telefunken Type U47.md",
     "images/U47-White-newnew.jpg",
-    "Condenser Mics/Neumann Type M147 Tube.md",
     "images/neumann type m147 tube.jpg",
-    "Microphone Companies/Audio Technica.md",
-    "Condenser Mics/Audio Technica AT4060.md",
     "images/audio technica at4060_01.png",
-    "Condenser Mics/Microtech Gefell GMBH UM 70-S.md",
     "images/neumann UM70S-.jpg",
-    "Condenser Mics/Neumann Type TLM-103.md",
-    "Condenser Mics/Neumann U87 Ai.md",
     "images/neumann u87 ai.jpg",
-    "Microphone Companies/Microtech Gefell.md",
-    "Microphone Companies/Neumann.md",
     "images/neumann type tlm-103.png",
-    "Microphone Companies/Sony.md",
-    "Microphone Companies/AKG.md",
-    "Condenser Mics/Sony C-48.md",
     "images/sony c-48.jpg",
-    "Microphone Companies/Blue.md",
-    "Condenser Mics/AKG C414B-ULS.md",
-    "images/C414b_uls.png",
-    "Condenser Mics/Blue Dragonfly.md",
     "Ribbon Mics/AEA KU5A.md",
     "Microphone Companies",
     "Condenser Mics",
@@ -297,7 +309,6 @@
     "images/AEA_KU5A_Specs_12-10-18.png.pdf",
     "Vocabulary and Concepts/Sound vs Pitch.md",
     "Vocabulary and Concepts/Simple and Compound Time.md",
-    "Cables and Cords/Cables.md",
-    "Ribbon Mics/Sontronics Sigma 2.md"
+    "Cables and Cords/Cables.md"
   ]
 }
